@@ -40,8 +40,8 @@ Projekti saab käivitada täielikult Dockeris. See võimaldab süsteemi üles se
 
 ### Eeldused
 
-- [Docker](https://www.docker.com/) peab olema paigaldatud
-- [Docker Compose](https://docs.docker.com/compose/) peab olema saadaval
+- Docker
+- Docker Compose
 
 ### Sammud
 
