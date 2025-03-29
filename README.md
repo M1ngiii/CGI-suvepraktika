@@ -13,6 +13,15 @@ Veebipõhine lennubroneerimise rakendus, mis võimaldab kasutajal:
 - Valida istekohad vastavalt oma eelistustele
 - Saada automaatseid isetkoha soovitusi
 
+### Tööaeg
+
+Tööle kulus ligikaudu 2 täispikka päeva (umbes 16-17 tundi).
+
+### Raskused
+
+Peamised raskused olid Spring Bootiga seotud, kuna pole varem seda kasutanud. Peamiselt said probleemid lahendatud dokumentatsiooni lugedes. Errorite lahendamisega aitas ka AI. Back-end muidu ise kirjutatud, peale lendude genereerimise komponendi, kus kasutasin samuti AI-d, et kirjutada lihtsamat koodi.
+Lisaks olid ajalised probleemid, kuna keskendun hetkel pigem lõputööle. Seetõttu alustasin projekti tegemist natukene liiga hilja. Osa koodi on lohakalt kirjutatud, kuna polnud palju aega.
+
 ---
 
 ## Tehnoloogiad
@@ -22,17 +31,6 @@ Veebipõhine lennubroneerimise rakendus, mis võimaldab kasutajal:
 - **Keskkond:** Docker, Docker Compose
 
 Valisin frontendi arenduseks SvelteKit-i, kuna mul oli varasem kogemus Svelte'iga ning leian, et see on lihtsam, kui teised front-end libraryd.
-
----
-
-### Tööaeg
-
-Tööle kulus ligikaudu 2 täispikka päeva (umbes 16-17 tundi).
-
-### Raskused
-
-Peamised raskused olid Spring Bootiga seotud, kuna pole varem seda kasutanud. Peamiselt said probleemid lahendatud dokumentatsiooni lugedes. Errorite lahendamisega aitas ka AI. Back-end muidu ise kirjutatud, peale lendude genereerimise komponendi, kus kasutasin samuti AI-d, et kirjutada lihtsamat koodi.
-Lisaks olid ajalised probleemid, kuna keskendun hetkel pigem lõputööle. Seetõttu alustasin projekti tegemist natukene liiga hilja. Osa koodi on lohakalt kirjutatud, kuna polnud palju aega.
 
 ---
 
